@@ -1,2 +1,2 @@
-# basics.py
+# Week1.py
 Python Programming: Variables, Printing, Comments, Operators, Input, Data Types and Conditional (if) Statements
