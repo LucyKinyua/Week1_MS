@@ -1,2 +1,2 @@
 # basics.py
-Python Programming: Variables, Printing, Comments, Operators and Input
+Python Programming: Variables, Printing, Comments, Operators, Input and Data Types
