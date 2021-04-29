@@ -1,2 +1,2 @@
-# Week1_MS.py
-Python Programming: Variables, Printing, Comments, Operators, Input, Data Types and Conditional (if) Statements
+# Week1_MS
+Introduction to Python & SQL Programming
